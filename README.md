@@ -4,7 +4,7 @@ This is a Sample Project, written with PROS, meant to be used as a starter proje
 -------
 # Instructions for use
 
-* Make sure you have the PROS Editor installed on your computer. 
+* **Make sure you have the PROS Editor installed on your computer**. 
 
 1. On this page, click the "Clone or Download" button and choose the "Download as Zip" option. 
 2. Once the file finished downloading, click on the file and unzip it to the desktop. 
